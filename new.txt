@@ -1,1 +1,3 @@
-Hi this is ajinkya
+Hi this is ajinkya!
+
+I'm right now learning AWS with Devops.
